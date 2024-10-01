@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "239562482618",
+    "project_id": "app-xclinics-8a298",
+    "storage_bucket": "app-xclinics-8a298.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239562482618:android:3bd2d0ec63bb0f34873383",
+        "android_client_info": {
+          "package_name": "appxclinics_android.company.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLqn88oPF_B4XK9ONgCv2t5kx9V7Leqg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239562482618:android:38e658c57befeb72873383",
+        "android_client_info": {
+          "package_name": "com.flutterflow.homeU"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLqn88oPF_B4XK9ONgCv2t5kx9V7Leqg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
